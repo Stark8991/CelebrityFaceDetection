@@ -1,3 +1,4 @@
+![360_F_636842706_6i1efCvS167X41fhxqxzvSlI3kbAa2cv](https://github.com/user-attachments/assets/620e5bc4-fc08-4ed2-a112-310e914bbcf5)
 # Celebrity Face Detection Using YOLOv8
 
 This project implements a real-time celebrity face detection system using the YOLOv8 model and OpenCV. It leverages state-of-the-art deep learning techniques for object detection and provides high accuracy in identifying celebrity faces in images and videos.
