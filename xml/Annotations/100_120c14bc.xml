@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Johnny Depp</folder>
+	<filename>100_120c14bc.jpg</filename>
+	<path>C:\Users\Prasant\Desktop\Python\Project\archive\Celebrity Faces Dataset\Johnny Depp\100_120c14bc.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>474</width>
+		<height>395</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Johnny Depp</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>161</xmin>
+			<ymin>3</ymin>
+			<xmax>337</xmax>
+			<ymax>255</ymax>
+		</bndbox>
+	</object>
+</annotation>

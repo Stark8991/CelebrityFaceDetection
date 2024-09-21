@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Will Smith</folder>
+	<filename>049_15a71c48.jpg</filename>
+	<path>C:\Users\Prasant\Desktop\Python\Project\archive\Celebrity Faces Dataset\Will Smith\049_15a71c48.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>474</width>
+		<height>452</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Will Smith</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>154</xmin>
+			<ymin>6</ymin>
+			<xmax>426</xmax>
+			<ymax>356</ymax>
+		</bndbox>
+	</object>
+</annotation>

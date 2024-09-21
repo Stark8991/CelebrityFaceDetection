@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Leonardo DiCaprio</folder>
+	<filename>087_1382b266.jpg</filename>
+	<path>C:\Users\Prasant\Desktop\Python\Project\archive\Celebrity Faces Dataset\Leonardo DiCaprio\087_1382b266.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>474</width>
+		<height>453</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Leonardo DiCaprio</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>100</xmin>
+			<ymin>23</ymin>
+			<xmax>317</xmax>
+			<ymax>252</ymax>
+		</bndbox>
+	</object>
+</annotation>

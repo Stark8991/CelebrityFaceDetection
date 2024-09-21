@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Angelina Jolie</folder>
+	<filename>010_f99d79e3.jpg</filename>
+	<path>C:\Users\Prasant\Desktop\Python\Project\archive\Celebrity Faces Dataset\Angelina Jolie\010_f99d79e3.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>474</width>
+		<height>568</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>angelinaJoli</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>131</xmin>
+			<ymin>54</ymin>
+			<xmax>373</xmax>
+			<ymax>359</ymax>
+		</bndbox>
+	</object>
+</annotation>

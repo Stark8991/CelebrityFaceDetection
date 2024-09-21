@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Denzel Washington</folder>
+	<filename>041_c8998bae.jpg</filename>
+	<path>C:\Users\Prasant\Desktop\Python\Project\archive\Celebrity Faces Dataset\Denzel Washington\041_c8998bae.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>474</width>
+		<height>488</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Denzel Washington</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>222</xmin>
+			<ymin>41</ymin>
+			<xmax>373</xmax>
+			<ymax>215</ymax>
+		</bndbox>
+	</object>
+</annotation>

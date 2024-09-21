@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Robert Downey Jr</folder>
+	<filename>025_467e0866.jpg</filename>
+	<path>C:\Users\Prasant\Desktop\Python\Project\archive\Celebrity Faces Dataset\Robert Downey Jr\025_467e0866.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>474</width>
+		<height>474</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Leonardo DiCaprio</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>92</xmin>
+			<ymin>21</ymin>
+			<xmax>382</xmax>
+			<ymax>405</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Robert Downey Jr</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>80</xmin>
+			<ymin>9</ymin>
+			<xmax>398</xmax>
+			<ymax>408</ymax>
+		</bndbox>
+	</object>
+</annotation>

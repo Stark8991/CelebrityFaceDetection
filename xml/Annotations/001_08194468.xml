@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Leonardo DiCaprio</folder>
+	<filename>001_08194468.jpg</filename>
+	<path>C:\Users\Prasant\Desktop\Python\Project\archive\Celebrity Faces Dataset\Leonardo DiCaprio\001_08194468.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>474</width>
+		<height>474</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Kate Winslet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>102</xmin>
+			<ymin>29</ymin>
+			<xmax>379</xmax>
+			<ymax>410</ymax>
+		</bndbox>
+	</object>
+</annotation>

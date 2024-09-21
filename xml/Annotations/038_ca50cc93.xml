@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Jennifer Lawrence</folder>
+	<filename>038_ca50cc93.jpg</filename>
+	<path>C:\Users\Prasant\Desktop\Python\Project\archive\Celebrity Faces Dataset\Jennifer Lawrence\038_ca50cc93.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>474</width>
+		<height>592</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Jennifer Lawrence</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>93</xmin>
+			<ymin>18</ymin>
+			<xmax>343</xmax>
+			<ymax>421</ymax>
+		</bndbox>
+	</object>
+</annotation>

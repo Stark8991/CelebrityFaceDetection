@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Hugh Jackman</folder>
+	<filename>100_1ea80814.jpg</filename>
+	<path>C:\Users\Prasant\Desktop\Python\Project\archive\Celebrity Faces Dataset\Hugh Jackman\100_1ea80814.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>474</width>
+		<height>577</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Hugh Jackman</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>149</xmin>
+			<ymin>113</ymin>
+			<xmax>318</xmax>
+			<ymax>341</ymax>
+		</bndbox>
+	</object>
+</annotation>

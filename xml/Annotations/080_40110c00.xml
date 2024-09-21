@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Kate Winslet</folder>
+	<filename>080_40110c00.jpg</filename>
+	<path>C:\Users\Prasant\Desktop\Python\Project\archive\Celebrity Faces Dataset\Kate Winslet\080_40110c00.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>474</width>
+		<height>592</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Kate Winslet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>138</xmin>
+			<ymin>73</ymin>
+			<xmax>329</xmax>
+			<ymax>367</ymax>
+		</bndbox>
+	</object>
+</annotation>

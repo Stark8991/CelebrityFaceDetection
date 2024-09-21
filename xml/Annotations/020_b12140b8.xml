@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Robert Downey Jr</folder>
+	<filename>020_b12140b8.jpg</filename>
+	<path>C:\Users\Prasant\Desktop\Python\Project\archive\Celebrity Faces Dataset\Robert Downey Jr\020_b12140b8.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>474</width>
+		<height>566</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Robert Downey Jr</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>79</xmin>
+			<ymin>49</ymin>
+			<xmax>419</xmax>
+			<ymax>442</ymax>
+		</bndbox>
+	</object>
+</annotation>

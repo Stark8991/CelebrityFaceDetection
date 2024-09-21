@@ -1,0 +1,14 @@
+train: xml/train_dataset
+val: xml/test_dataset
+nc: 10
+names: ['Leonardo DiCaprio',
+        'Jennifer Lawrence',
+        'Johnny Depp', 
+        'Kate Winslet',
+        'Hugh Jackman', 
+        'Robert Downey Jr',
+        'Will Smith', 
+        'Brad Pitt', 
+        'Denzel Washington',
+        'Angelina Jolie'
+]

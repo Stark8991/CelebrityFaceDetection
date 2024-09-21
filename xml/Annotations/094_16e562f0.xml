@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Brad Pitt</folder>
+	<filename>094_16e562f0.jpg</filename>
+	<path>C:\Users\Prasant\Desktop\Python\Project\archive\Celebrity Faces Dataset\Brad Pitt\094_16e562f0.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>474</width>
+		<height>568</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Brad Pitt</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>153</xmin>
+			<ymin>39</ymin>
+			<xmax>383</xmax>
+			<ymax>348</ymax>
+		</bndbox>
+	</object>
+</annotation>
